@@ -1,0 +1,21 @@
+{
+    "name": "d3-project-practice",
+    "version": "0.1.0",
+    "description": "Ready to go d3 data visualization project",
+    "keywords": [
+        "d3",
+        "data visualization"
+    ],
+    "author": {
+        "name": "mccollum"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "dependencies": {
+        "d3": "4.x"
+    },
+    "devDependencies": {
+        "uglify-js": "2.x"
+    }
+}
